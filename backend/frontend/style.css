@@ -1,0 +1,51 @@
+body {
+    background-color: #f0f2f6;
+}
+
+h1 {
+    color: #204080;
+}
+h1 {
+    color: #007bff; /* A brighter blue */
+    text-shadow: 1px 1px 2px rgba(0, 0, 0, 0.2); /* Adding a subtle shadow for depth */
+}
+a {
+    color: #ff4081; /* A bright pink for links */
+    text-decoration: none; /* Remove underline */
+}
+
+a:hover {
+    color: #e91e63; /* Darker pink on hover */
+}
+h2 {
+    color: #4caf50; /* A bright green */
+}
+
+h3 {
+    color: #ff9800; /* A bright orange */
+}
+.section {
+    background-color: #ffffff; /* White background for sections */
+    border: 2px solid #ffeb3b; /* Bright yellow border */
+    padding: 20px;
+    margin: 10px 0;
+    border-radius: 8px; /* Rounded corners */
+}
+:root {
+    --background-color: #e0f7fa;
+    --header-color: #007bff;
+    --link-color: #ff4081;
+    --hover-link-color: #e91e63;
+    --h2-color: #4caf50;
+    --h3-color: #ff9800;
+}
+
+body {
+    background-color: var(--background-color);
+}
+
+h1 {
+    color: var(--header-color);
+}
+
+/* And continue using the variables for other elements */
