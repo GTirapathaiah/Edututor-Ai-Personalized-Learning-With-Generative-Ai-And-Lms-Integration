@@ -74,7 +74,7 @@ EDUTUTOR-AI/
 📽️ Demo Video
 Because of GitHub’s file size limitations, you can watch the full working demo of EduTutor AI here:
 
-▶️ [Click to Watch the Demo on Google Drive]
+▶️ [Click to Watch the Demo on Google Drive]:https://drive.google.com/drive/folders/1-IwiUbY5DNPC8y0cg2315G4-1waaFpM-?usp=sharing
 
 💫 Project Workflow:
 Requirement Setup
